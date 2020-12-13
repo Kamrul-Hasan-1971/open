@@ -1,0 +1,4 @@
+To make output window in the middle
+#include <QScreen> // header
+move(QGuiApplication::screens().at(0)->geometry().center() - frameGeometry().center());
+
