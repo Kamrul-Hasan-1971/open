@@ -18,3 +18,6 @@ https://stackoverflow.com/questions/5674541/qnetworkaccessmanager-and-authentica
 https://stackoverflow.com/questions/24212345/qnetworkaccessmanager-fails
 https://stackoverflow.com/questions/1512849/basic-authentication-with-qt-qnetworkaccessmanager
 https://stackoverflow.com/questions/23479362/login-to-website-using-qt
+
+13/12/2020
+https://www.youtube.com/watch?v=swZNOKKkQiw
