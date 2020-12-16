@@ -2,22 +2,4 @@ To make output window in the middle
 #include <QScreen> // header
 move(QGuiApplication::screens().at(0)->geometry().center() - frameGeometry().center());
 
-http://www.codebind.com/cpp-tutorial/qt-tutorial/qt-tutorials-beginners-creating-simple-login-form-qt/
-https://forum.qt.io/topic/16366/solved-qwebview-website-requires-authentication/10
-https://stackoverflow.com/questions/23479362/login-to-website-using-qt
-https://tutpal.usefedora.com/courses/1744/lectures/32653
-https://www.qtcentre.org/threads/54230-create-login-page
-https://wiki.qt.io/User_Login_Dialog
-https://doc.qt.io/qtdesignstudio/qt-design-studio-loginui3-example.html
-https://stackoverflow.com/questions/25433706/qt-console-app-using-qnetworkaccessmanager
-https://forum.qt.io/topic/70915/can-t-use-qnetworkaccessmanager-to-login-to-a-website
-https://forum.qt.io/topic/46736/how-to-login-web-form-using-qt5
-https://forum.qt.io/topic/54747/login-to-a-website/6
-https://www.qtcentre.org/threads/41033-QNetworkAccessManager-authenticationRequired-slot-doesn-t-get-called
-https://stackoverflow.com/questions/5674541/qnetworkaccessmanager-and-authenticationrequired/11874100
-https://stackoverflow.com/questions/24212345/qnetworkaccessmanager-fails
-https://stackoverflow.com/questions/1512849/basic-authentication-with-qt-qnetworkaccessmanager
-https://stackoverflow.com/questions/23479362/login-to-website-using-qt
-
-13/12/2020
-https://www.youtube.com/watch?v=swZNOKKkQiw
+https://github.com/greenand/gsoap-onvif
